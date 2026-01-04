@@ -1,4 +1,4 @@
-# Course on Modeling and Simulation at the University Of Graz 2023
+# Methods of Modeling and Simulation
 
 Exercise 1 deals with different growth models
 
