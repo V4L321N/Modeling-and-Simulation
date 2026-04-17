@@ -1,5 +1,7 @@
 # Methods of Modeling and Simulation
 
+::Coursework exercises 2023::
+
 Exercise 1 different growth models
 
 Exercise 2 different predator/prey models
@@ -14,6 +16,6 @@ Exercise 6&7 implement a RK4 method for a ray of light and models the path start
 
 Exercise 8&9 implicit and explicit solutions of the partial differential description of the electron density in the upper atmosphere
 
-(Exercise 10&11 numerical exampless of linear regression models=
+(Exercise 10&11 numerical exampless of linear regression models)
 
 Exercise 12 energy balance models
